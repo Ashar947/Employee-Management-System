@@ -1,0 +1,15 @@
+.content{
+  width: 40rem;
+}
+
+
+.card-sty{
+  width: 25rem;
+  height: 6rem;
+}
+
+.contact-card{
+  display: flex;
+  justify-content: space-between;
+  margin: 4rem;
+}
